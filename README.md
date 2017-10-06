@@ -16,3 +16,5 @@
 
 
 [Урок №11](BagmaCo.github.io/Lesson_11/ "Моя готовая домашка") - Сниппеты
+
+[Урок №12](BagmaCo.github.io/Lesson_12/ "Моя готовая домашка") - Хостинг от GitHub
