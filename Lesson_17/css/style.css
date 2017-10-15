@@ -1,0 +1,16 @@
+.modal-header {
+  background-color: #3b2e3a;
+  color: #fff;
+  border-radius: 5px;
+}
+.close {
+  color: #fff;
+}
+.btn-default {
+  background-color: #74a859;
+  color: #fff;
+}
+.btn-primary {
+  background-color: #d45a5a;
+  color: #fff;
+}
