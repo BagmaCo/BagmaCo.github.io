@@ -1,0 +1,20 @@
+.main {
+	height: 7.4rem;
+}
+h1 {
+	text-align: center;	
+	color: #0bbaf0;
+	margin-bottom: 4rem;
+}
+
+.panel-group {
+	display: inline-block;
+	text-align: center;
+}
+.panel-default .panel-heading {
+    color: #fff;
+    background-color: #0bbaf0;
+}
+.form {
+	padding: 2rem 70rem;
+}
