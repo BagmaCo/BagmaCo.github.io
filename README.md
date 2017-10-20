@@ -44,3 +44,5 @@
 [Урок №18_2](BagmaCo.github.io/Lesson_18_part_2/ "Моя готовая домашка") - Табы
 
 [Модуль №5.Часть 6](BagmaCo.github.io/modul_5_practice_6/src/ "Моя готовая домашка") - Верстка блока с ценами
+
+[Урок №19](BagmaCo.github.io/lesson_19/ "Моя готовая домашка") - Анимация на CSS3
