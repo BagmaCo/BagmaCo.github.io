@@ -42,3 +42,4 @@
 [Урок №18_1](BagmaCo.github.io/Lesson_18_part_1/ "Моя готовая домашка") - Аккордеон
 
 [Урок №18_2](BagmaCo.github.io/Lesson_18_part_2/ "Моя готовая домашка") - Табы
+[Модуль №5.Часть 6](BagmaCo.github.io/modul_5_practice_6/src/ "Моя готовая домашка") - Верстка блока с ценами
