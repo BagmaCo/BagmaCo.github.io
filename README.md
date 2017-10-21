@@ -47,4 +47,4 @@
 
 [Урок №19](BagmaCo.github.io/lesson_19/ "Моя готовая домашка") - Анимация на CSS3
 
-[Модуль №5.Часть 7](BagmaCo.github.io/Modul_5_practice_7/ "Моя готовая домашка")
+[Модуль №5.Часть 7](BagmaCo.github.io/Modul_5_practice_7/ "Моя готовая домашка") - Верстка блока с отзывами
